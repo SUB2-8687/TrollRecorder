@@ -1,22 +1,22 @@
 "CFBundleDisplayName" = "TrollRecorder";
 
-"NSContactsUsageDescription" = "TrollRecorder는 전화번호 대신 친구의 이름을 표시하기 위해 연락처에 대한 접근 권한이 필요합니다.";
+"NSContactsUsageDescription" = "TrollRecorder는 녹음에 연락처 이름을 표시하기 위해 연락처에 접근해야 합니다.";
 
-"NSFaceIDUsageDescription" = "TrollRecorder는 신원을 확인하기 위해 Face ID에 대한 접근 권한이 필요합니다.";
+"NSFaceIDUsageDescription" = "TrollRecorder는 신원 확인을 위해 Face ID가 필요합니다.";
 
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "TrollRecorder는 녹음에 위치 정보를 저장하기 위해 사용자의 위치에 접근해야 합니다.";
 
-"NSLocationAlwaysUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+"NSLocationAlwaysUsageDescription" = "TrollRecorder는 녹음에 위치 정보를 저장하기 위해 사용자의 위치에 접근해야 합니다.";
 
-"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+"NSLocationTemporaryUsageDescriptionDictionary" = "TrollRecorder는 녹음에 위치 정보를 저장하기 위해 사용자의 위치에 접근해야 합니다.";
 
-"NSLocationUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+"NSLocationUsageDescription" = "TrollRecorder는 녹음에 위치 정보를 저장하기 위해 사용자의 위치에 접근해야 합니다.";
 
-"NSLocationWhenInUseUsageDescription" = "TrollRecorder는 녹음과 함께 저장하기 위해 위치에 대한 접근 권한이 필요합니다.";
+"NSLocationWhenInUseUsageDescription" = "TrollRecorder는 녹음에 위치 정보를 저장하기 위해 사용자의 위치에 접근해야 합니다.";
 
-"NSMicrophoneUsageDescription" = "TrollRecorder는 가장 기본적인 녹음 기능을 수행을 위해 마이크에 대한 접근 권한이 필요합니다.";
+"NSMicrophoneUsageDescription" = "TrollRecorder는 가장 기본적인 녹음 기능 수행을 위해 마이크에 접근해야 합니다.";
 
-"NSSpeechRecognitionUsageDescription" = "TrollRecorder는 음성 인식을 사용하여 녹음의 녹취록을 작성하려고 합니다.";
+"NSSpeechRecognitionUsageDescription" = "TrollRecorder는 녹음의 전사문을 만들기 위해 음성 인식 기술을 사용해야 합니다.";
 
 "NSUbiquitousContainerName" = "TrollRecorder";
 

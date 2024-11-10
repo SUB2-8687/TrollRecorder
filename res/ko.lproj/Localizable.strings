@@ -106,8 +106,8 @@
 /* No comment provided by engineer. */
 "Alias" = "별명";
 
-/* TODO */
-"alive" = "alive";
+/* No comment provided by engineer. */
+"alive" = "활성 상태";
 
 /* No comment provided by engineer. */
 "All Edges" = "모든 가장자리";
@@ -172,8 +172,8 @@
 /* No comment provided by engineer. */
 "App Icon" = "앱 아이콘";
 
-/* TODO */
-"App Language" = "App Language";
+/* No comment provided by engineer. */
+"App Language" = "앱 언어";
 
 /* No comment provided by engineer. */
 "Appearance" = "디스플레이 및 외관";
@@ -185,13 +185,13 @@
 "Application" = "응용 프로그램";
 
 /* No comment provided by engineer. */
+"archive" = "아카이브";
+
+/* No comment provided by engineer. */
 "Application Overrides" = "기본 설정";
 
 /* No comment provided by engineer. */
 "Applications" = "응용 프로그램";
-
-/* No comment provided by engineer. */
-"archive" = "아카이브";
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "모든 자동화 동작을 삭제하시겠습니까?";
@@ -289,8 +289,8 @@
 /* No comment provided by engineer. */
 "Best" = "최고";
 
-/* TODO */
-"Beta" = "Beta";
+/* No comment provided by engineer. */
+"Beta" = "베타";
 
 /* No comment provided by engineer. */
 "Bi-sync" = "양방향 동기화";
@@ -304,14 +304,14 @@
 /* No comment provided by engineer. */
 "Boost Periodic Tasks" = "예약된 작업 속도 향상";
 
-/* TODO */
-"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
-
-/* TODO */
-"Both (Microphone & Speaker)" = "Both (Microphone & Speaker)";
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore 호환 모드)";
 
 /* No comment provided by engineer. */
-"bottom edge" = "하단 가장자리";
+"Both (Microphone & Speaker)" = "양방향 (마이크 및 스피커)";
+
+/* No comment provided by engineer. */
+"bottom edge" = "하단 가장자리의";
 
 /* No comment provided by engineer. */
 "Build and use a custom export name template for exported audio files." = "내보내거나 보관된 오디오 파일에 대한 사용자 설정 내보내기 이름 템플릿을 만들고 사용합니다.";
@@ -364,8 +364,8 @@
 /* No comment provided by engineer. */
 "Call State" = "통화 상태";
 
-/* TODO */
-"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded.";
+/* No comment provided by engineer. */
+"Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "통화는 이 기기의 마이크를 사용할 때만 녹음할 수 있습니다. 이 기기에서 걸려온 전화는 다른 기기에서 녹음되지 않습니다.";
 
 /* No comment provided by engineer. */
 "Cancel" = "취소";
@@ -376,17 +376,17 @@
 /* No comment provided by engineer. */
 "Caution" = "주요 기능";
 
-/* TODO */
-"check" = "check";
+/* No comment provided by engineer. */
+"check" = "확인";
 
-/* TODO */
-"Check if the daemon is running. If not, launch it." = "Check if the daemon is running. If not, launch it.";
+/* No comment provided by engineer. */
+"Check if the daemon is running. If not, launch it." = "데몬이 실행 중인지 확인하세요. 그렇지 않으면 실행하세요.";
 
-/* TODO */
-"Check Latest Version" = "Check Latest Version";
+/* No comment provided by engineer. */
+"Check Latest Version" = "최신 버전 확인";
 
-/* TODO */
-"Check Updates" = "Check Updates";
+/* No comment provided by engineer. */
+"Check Updates" = "업데이트 확인";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "시작 시 업데이트 확인";
@@ -430,8 +430,8 @@
 /* No comment provided by engineer. */
 "Combined Mode" = "결합 모드";
 
-/* TODO */
-"Compiled at %@" = "Compiled at %@";
+/* No comment provided by engineer. */
+"Compiled at %@" = "%@에서 컴파일됨";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "오디오 압축";
@@ -449,6 +449,9 @@
 "Constants" = "상수";
 
 /* No comment provided by engineer. */
+"Contact Phone Address" = "연락처 전화번호";
+
+/* No comment provided by engineer. */
 "Contact Exceptions" = "연락처 예외";
 
 /* No comment provided by engineer. */
@@ -464,7 +467,7 @@
 "Contact via Discord" = "Discord를 통해 연락";
 
 /* No comment provided by engineer. */
-"Contact via Email" = "이메일로 연락";
+"Contact via Email" = "이메일을 통해 연락";
 
 /* No comment provided by engineer. */
 "Contact via QQ" = "QQ를 통해 연락";
@@ -478,8 +481,8 @@
 /* No comment provided by engineer. */
 "Contacts Permission Denied" = "연락처 권한 거부됨";
 
-/* TODO */
-"Content" = "Content";
+/* No comment provided by engineer. */
+"Content" = "콘텐츠";
 
 /* No comment provided by engineer. */
 "Content Sharing" = "콘텐츠 공유";
@@ -503,7 +506,7 @@
 "Copied" = "복사됨";
 
 /* No comment provided by engineer. */
-"Copied Transcript" = "녹취록 복사됨";
+"Copied Transcript" = "전사문 복사됨";
 
 /* No comment provided by engineer. */
 "Copy" = "복사";
@@ -515,7 +518,7 @@
 "Copy Path" = "경로 복사";
 
 /* No comment provided by engineer. */
-"Copy Transcript" = "녹취록 복사";
+"Copy Transcript" = "전사문 복사";
 
 /* No comment provided by engineer. */
 "Copy Value" = "값 복사";
@@ -535,8 +538,8 @@
 /* No comment provided by engineer. */
 "Customize a rectangular region that helps you position the hoverball on the screen." = "화면에 호버볼을 배치하는 데 도움이 되는 직사각형 영역을 사용자 설정합니다.";
 
-/* TODO */
-"daemon" = "daemon";
+/* No comment provided by engineer. */
+"daemon" = "데몬";
 
 /* No comment provided by engineer. */
 "Date & Time" = "날짜 및 시간";
@@ -653,7 +656,7 @@
 "Display the path extension as the format of the recording." = "녹음 파일 포맷, 즉 경로 확장자를 표시합니다.";
 
 /* No comment provided by engineer. */
-"Display the preview images of the audio waveform of short recordings." = "짧은 녹음의 오디오 파형 미리 보기를 표시합니다.";
+"Display the preview images of the audio waveform of short recordings." = "짧은 녹음의 오디오 파형 미리 보기 이미지를 표시합니다.";
 
 /* No comment provided by engineer. */
 "Display the short name of the SIM card used for the recording if available." = "가능한 경우 통화 녹음에 사용된 SIM 카드의 짧은 이름을 표시합니다.";
@@ -661,8 +664,8 @@
 /* No comment provided by engineer. */
 "Display the source bundle name of the recording." = "녹음 소스, 즉 통화 중 사용한 응용 프로그램 이름을 표시합니다.";
 
-/* TODO */
-"Displays a local notification." = "Displays a local notification.";
+/* No comment provided by engineer. */
+"Displays a local notification." = "로컬 알림을 표시합니다.";
 
 /* No comment provided by engineer. */
 "Do you want to clear this log file “%@”?" = "“%@” 로그 파일을 지우시겠습니까?";
@@ -677,13 +680,13 @@
 "Don’t ask again" = "묻지 않음";
 
 /* No comment provided by engineer. */
-"Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리__ 를 기본 크기로 \n복원하려면 두 번 탭하세요.";
-
-/* TODO */
-"Downlink (Speaker)" = "Downlink (Speaker)";
+"Double tap to restore __all edges__  \nto their default sizes." = "__모든 가장자리를__ 기본 크기로 \n복원하려면 두 번 탭하세요.";
 
 /* No comment provided by engineer. */
-"Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기__ 를 드래그하여  \n___%@___ 의 크기를 조정하세요.";
+"Downlink (Speaker)" = "다운스트림 (스피커)";
+
+/* No comment provided by engineer. */
+"Drag __here__ to adjust  \nthe size of the ___%@___." = "__여기를__ 드래그하여  \n___%@___ 크기를 조정하세요.";
 
 /* No comment provided by engineer. */
 "Dropbox" = "DropBox";
@@ -754,8 +757,8 @@
 /* No comment provided by engineer. */
 "Enhanced Scene Identification" = "향상된 상황 인식";
 
-/* TODO */
-"Ensure Daemon Is Running" = "Ensure Daemon Is Running";
+/* No comment provided by engineer. */
+"Ensure Daemon Is Running" = "데몬 확인";
 
 /* No comment provided by engineer. */
 "Enter your password" = "암호 입력";
@@ -847,8 +850,8 @@
 /* No comment provided by engineer. */
 "Follow System" = "시스템 따르기";
 
-/* TODO */
-"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+/* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "앱이 특정 언어를 사용하도록 강제합니다. 변경사항을 적용하려면 다시 열어보세요.";
 
 /* No comment provided by engineer. */
 "Format" = "포맷";
@@ -908,13 +911,13 @@
 "Get Recording Status" = "녹음 상태 확인";
 
 /* No comment provided by engineer. */
-"Get the current recording duration of the Troll Recorder." = "TrollRecorder의 현재 녹음 기간을 확인합니다.";
+"Get the current recording duration of the Troll Recorder." = "TrollRecorder의 현재 녹음 기간을 확인합니다.";
 
 /* No comment provided by engineer. */
-"Get the current recording paths of the Troll Recorder." = "TrollRecorder의 현재 녹음 경로를 확인합니다.";
+"Get the current recording paths of the Troll Recorder." = "TrollRecorder의 현재 녹음 경로를 확인합니다.";
 
 /* No comment provided by engineer. */
-"Get the current recording status of the Troll Recorder." = "TrollRecorder의 현재 녹음 상태를 확인합니다.";
+"Get the current recording status of the Troll Recorder." = "TrollRecorder의 현재 녹음 상태를 확인합니다.";
 
 /* No comment provided by engineer. */
 "Get the primary call duration of the device." = "기본 통화 시간을 확인합니다";
@@ -928,14 +931,14 @@
 /* No comment provided by engineer. */
 "Google Drive" = "Google 드라이브";
 
-/* TODO */
-"Group Call" = "Group Call";
+/* No comment provided by engineer. */
+"Group Call" = "그룹 통화";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "잠금 화면에서 “음성 메모” 앱을 숨기고 “Dynamic Island” 활동을 숨깁니다. 이 기능을 적용하려면 리스프링이 필요할 수 있습니다.";
 
-/* TODO */
-"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies.";
+/* No comment provided by engineer. */
+"Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. You have to inject it into “Voice Memos” app via TrollFools or similar technologies." = "잠금 화면에서 “음성 메모” 앱을 숨기고 “Dynamic Island” 활동을 숨깁니다. TrollFools 또는 유사한 기술을 통해 “음성 메모” 앱에 주입해야 합니다.";
 
 /* No comment provided by engineer. */
 "Hide When Snapshot" = "스크린샷 촬영 시 숨기기";
@@ -1030,8 +1033,8 @@
 /* No comment provided by engineer. */
 "Install" = "설치";
 
-/* TODO */
-"Install Call History Tweak" = "Install Call History Tweak";
+/* No comment provided by engineer. */
+"Install Call History Tweak" = "통화 기록 트윅 설치";
 
 /* No comment provided by engineer. */
 "Install “Compress Audio” action into “Shortcuts”, then share your recordings to this action to compress your audio to AAC/AIFF format." = "“단축어”에 “오디오 압축” 동작을 설치한 다음 녹음을 이 동작에 공유하여 오디오를 AAC/AIFF 포맷으로 압축합니다.";
@@ -1039,8 +1042,8 @@
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "“단축어”에 “아카이브 만들기” 동작을 설치한 다음 녹음을 이 동작에 공유하여 ZIP 아카이브를 만듭니다.";
 
-/* TODO */
-"Invalid code signature.\nPlease reinstall this application from TrollStore." = "Invalid code signature.\nPlease reinstall this application from TrollStore.";
+/* No comment provided by engineer. */
+"Invalid code signature.\nPlease reinstall this application from TrollStore." = "잘못된 코드 서명입니다.\nTrollStore에서 이 응용 프로그램을 다시 설치하십시오.";
 
 /* No comment provided by engineer. */
 "iPad" = "iPad";
@@ -1084,11 +1087,11 @@
 /* No comment provided by engineer. */
 "Later" = "나중에";
 
-/* TODO */
-"Latest Version" = "Latest Version";
+/* No comment provided by engineer. */
+"Latest Version" = "최신 버전";
 
-/* TODO */
-"launch" = "launch";
+/* No comment provided by engineer. */
+"launch" = "실행";
 
 /* No comment provided by engineer. */
 "Launch App at End" = "종료 시 앱 실행";
@@ -1100,10 +1103,10 @@
 "Leading & Trailing" = "왼쪽 및 오른쪽 가장자리";
 
 /* No comment provided by engineer. */
-"leading edge" = "왼쪽";
+"leading edge" = "왼쪽 가장자리의";
 
-/* TODO */
-"Legacy Jailbreak" = "Legacy Jailbreak";
+/* No comment provided by engineer. */
+"Legacy Jailbreak" = "레거시 탈옥";
 
 /* No comment provided by engineer. */
 "Link Device to Havoc" = "Havoc에 기기 연결";
@@ -1144,13 +1147,13 @@
 /* No comment provided by engineer. */
 "Long Date" = "긴 날짜";
 
-/* TODO */
-"Long Press Hoverball" = "Long Press Hoverball";
-
-/* TODO */
-"Long press the hoverball to start or stop recording by convenience." = "Long press the hoverball to start or stop recording by convenience.";
+/* No comment provided by engineer. */
+"Long Press Hoverball" = "호버볼 길게 누르기";
 
 /* No comment provided by engineer. */
+"Long press the hoverball to start or stop recording by convenience." = "호버볼을 길게 눌러 편리하게 녹화를 시작하거나 중지할 수 있습니다.";
+
+/* No comment provided by engineer. */	
 "Long Time" = "긴 시간";
 
 /* No comment provided by engineer. */
@@ -1160,16 +1163,16 @@
 "Low Disk Space" = "저장 공간 부족";
 
 /* No comment provided by engineer. */
-"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
+"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
 
 /* No comment provided by engineer. */
 "Mail composition failed" = "이메일 작성 실패";
 
-/* TODO */
-"Maintenance" = "Maintenance";
+/* No comment provided by engineer. */
+"Maintenance" = "유지";
 
 /* No comment provided by engineer. */
-"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 이를 포함하도록 허용합니다.";
+"Make shallow copies of recordings in a backup domain, and allow iCloud Backup to include them." = "백업 도메인에서 녹음의 얕은 복사본을 만들고 iCloud 백업에 해당 복사본을 포함하도록 허용합니다.";
 
 /* No comment provided by engineer. */
 "Make the associated call recordings displayed on the call history page, jump to TrollRecorder for a playback." = "통화 기록 페이지에 관련 통화 녹음을 표시하고 재생을 위해 TrollRecorder로 이동합니다.";
@@ -1201,8 +1204,8 @@
 /* No comment provided by engineer. */
 "Merged File" = "파일 병합";
 
-/* TODO */
-"Message" = "Message";
+/* No comment provided by engineer. */
+"Message" = "메시지";
 
 /* No comment provided by engineer. */
 "Metadata" = "메타데이터";
@@ -1252,14 +1255,14 @@
 /* No comment provided by engineer. */
 "Multiple Devices" = "최대 5개 기기에서 동시에 사용";
 
-/* TODO */
-"mute" = "mute";
+/* No comment provided by engineer. */
+"mute" = "음소거";
 
-/* TODO */
-"Mute Existing Calls" = "Mute Existing Calls";
+/* No comment provided by engineer. */
+"Mute Existing Calls" = "기존 통화 음소거";
 
-/* TODO */
-"Mute specified channel of all existing calls." = "Mute specified channel of all existing calls.";
+/* No comment provided by engineer. */
+"Mute specified channel of all existing calls." = "모든 기존 통화의 지정된 채널을 음소거합니다.";
 
 /* No comment provided by engineer. */
 "My Favourite" = "즐겨찾기";
@@ -1291,8 +1294,8 @@
 /* No comment provided by engineer. */
 "NO" = "아니요";
 
-/* TODO */
-"No Available Version" = "No Available Version";
+/* No comment provided by engineer. */
+"No Available Version" = "사용 가능한 버전 없음";
 
 /* No comment provided by engineer. */
 "No phone number found in selected contacts." = "선택한 연락처에서 전화번호를 찾을 수 없습니다.";
@@ -1321,8 +1324,8 @@
 /* No comment provided by engineer. */
 "Nothing Inside" = "내부가 비어 있음";
 
-/* TODO */
-"notification" = "notification";
+/* No comment provided by engineer. */
+"notification" = "알림";
 
 /* No comment provided by engineer. */
 "Notification Permission Denied" = "알림 권한 거부됨";
@@ -1330,8 +1333,8 @@
 /* No comment provided by engineer. */
 "Notifications" = "알림 및 미리 알림";
 
-/* TODO */
-"notify" = "notify";
+/* No comment provided by engineer. */
+"notify" = "알림";
 
 /* No comment provided by engineer. */
 "Object Viewer" = "객체 뷰어";
@@ -1409,7 +1412,7 @@
 "Paused" = "일시 정지됨";
 
 /* No comment provided by engineer. */
-"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "“iCloud로 백업”과 “스마트 클라우드 아카이브”의 전체 동기화를 수행합니다.";
+"Perform a full synchronization of “Backup with iCloud” and “Smart Cloud Archive”." = "“iCloud로 백업”과 “지능형 클라우드 아카이브”의 전체 동기화를 수행합니다.";
 
 /* No comment provided by engineer. */
 "Perform Full Synchronization" = "전체 동기화 수행";
@@ -1450,8 +1453,8 @@
 /* No comment provided by engineer. */
 "Play Recording Warning" = "녹음 경고 재생";
 
-/* TODO */
-"Play Sound" = "Play Sound";
+/* No comment provided by engineer. */
+"Play Sound" = "사운드 재생";
 
 /* No comment provided by engineer. */
 "Play specified voice-over text to the microphone." = "지정된 VoiceOver 텍스트를 마이크로 재생합니다.";
@@ -1499,22 +1502,22 @@
 "Preview Disabled" = "미리보기 비활성화됨";
 
 /* No comment provided by engineer. */
-"Privacy Policy" = "개인정보 처리방침";
+"Privacy Policy" = "개인정보처리방침";
 
 /* No comment provided by engineer. */
-"Privacy Policy & User Agreements" = "개인정보 처리방침 및 사용자 약관";
+"Privacy Policy & User Agreements" = "개인정보처리방침 및 이용약관";
 
 /* No comment provided by engineer. */
 "Purchase" = "구매";
 
-/* TODO */
-"Pure TrollStore" = "Pure TrollStore";
+/* No comment provided by engineer. */
+"Pure TrollStore" = "순수 TrollStore";
 
-/* TODO */
-"Query the latest version from GitHub." = "Query the latest version from GitHub.";
+/* No comment provided by engineer. */
+"Query the latest version from GitHub." = "GitHub에서 최신 버전을 쿼리합니다.";
 
-/* TODO */
-"Querying" = "Querying";
+/* No comment provided by engineer. */
+"Querying" = "쿼리 중";
 
 /* No comment provided by engineer. */
 "Quick Recording" = "빠른 녹음";
@@ -1606,8 +1609,8 @@
 /* No comment provided by engineer. */
 "Relaunched" = "재실행됨";
 
-/* TODO */
-"Release" = "Release";
+/* No comment provided by engineer. */
+"Release" = "출시";
 
 /* No comment provided by engineer. */
 "Release Notes" = "릴리스 노트";
@@ -1666,14 +1669,14 @@
 /* No comment provided by engineer. */
 "Root" = "루트";
 
-/* TODO */
-"RootHide Jailbreak" = "RootHide Jailbreak";
+/* No comment provided by engineer. */
+"RootHide Jailbreak" = "RootHide 탈옥";
 
-/* TODO */
-"Rootless Jailbreak" = "Rootless Jailbreak";
+/* No comment provided by engineer. */
+"Rootless Jailbreak" = "Rootless 탈옥";
 
-/* TODO */
-"Runtime Environment: %@" = "Runtime Environment: %@";
+/* No comment provided by engineer. */
+"Runtime Environment: %@" = "런타임 환경: %@";
 
 /* No comment provided by engineer. */
 "Sample Rate" = "샘플링 속도";
@@ -1756,8 +1759,8 @@
 /* No comment provided by engineer. */
 "Server started at: %@" = "서버 시작 시간: %@";
 
-/* TODO */
-"service" = "service";
+/* No comment provided by engineer. */
+"service" = "서비스";
 
 /* No comment provided by engineer. */
 "Service is alive" = "서비스 정상 실행 중";
@@ -1798,11 +1801,11 @@
 /* No comment provided by engineer. */
 "Show Contact Names" = "연락처 이름 표시";
 
-/* TODO */
-"Show Notification" = "Show Notification";
+/* No comment provided by engineer. */
+"Show Notification" = "알림 표시";
 
-/* TODO */
-"Show notification ${requestedMessage}" = "Show notification ${requestedMessage}";
+/* No comment provided by engineer. */
+"Show notification ${requestedMessage}" = "${requestedMessage} 알림 표시";
 
 /* No comment provided by engineer. */
 "Show on Lock Screen" = "잠금 화면에 표시";
@@ -1832,7 +1835,7 @@
 "Smaller" = "더 작게";
 
 /* No comment provided by engineer. */
-"Smart Cloud Archive" = "스마트 클라우드 아카이브";
+"Smart Cloud Archive" = "지능형 클라우드 아카이브";
 
 /* No comment provided by engineer. */
 "Software License" = "소프트웨어 라이센스";
@@ -1840,8 +1843,8 @@
 /* No comment provided by engineer. */
 "Some settings have been reset to default values." = "일부 설정이 기본값으로 재설정되었습니다.";
 
-/* TODO */
-"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "Something important is missing. Please reinstall “TrollRecorder JB” from Sileo.";
+/* No comment provided by engineer. */
+"Something important is missing. Please reinstall “TrollRecorder JB” from Sileo." = "중요한 것이 빠졌습니다. Sileo에서 “TrollRecorder JB”를 다시 설치하세요.";
 
 /* No comment provided by engineer. */
 "Something is wrong, we are not able to verify your license. You can tap “View My Account” to check your orders, purchases or redeem a gift code." = "뭔가 문제가 발생하여 라이센스를 확인할 수 없습니다. “내 계정 보기”를 탭하여 주문, 구매 내역을 확인하거나 선물코드를 등록하세요.";
@@ -1852,8 +1855,8 @@
 /* No comment provided by engineer. */
 "Speaker" = "스피커";
 
-/* TODO */
-"speaker" = "speaker";
+/* No comment provided by engineer. */
+"speaker" = "스피커";
 
 /* No comment provided by engineer. */
 "start" = "시작";
@@ -1927,11 +1930,11 @@
 /* No comment provided by engineer. */
 "System Audio" = "시스템 오디오";
 
-/* TODO */
-"System Language" = "System Language";
+/* No comment provided by engineer. */
+"System Language" = "시스템 언어";
 
 /* No comment provided by engineer. */
-"Tap __any edge__  \nto select it as an ___active edge___." = "__모든 가장자리__를 탭하여 \n___활성 가장자리___로 선택하세요.";
+"Tap __any edge__  \nto select it as an ___active edge___." = "__아무 가장자리나__ 탭하여 \n___활성 가장자리로___ 선택하세요.";
 
 /* No comment provided by engineer. */
 "Tap again to make a phone call." = "전화를 걸려면 다시 탭하세요.";
@@ -1966,7 +1969,7 @@
 /* No comment provided by engineer. */
 "Terminate Calls" = "통화 종료";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer. */	
 "text-to-speech" = "텍스트 음성 변환";
 
 /* No comment provided by engineer. */
@@ -2011,11 +2014,11 @@
 /* No comment provided by engineer. */
 "The file format of the selected audio file." = "현재 오디오 파일의 파일 포맷입니다.";
 
-/* TODO */
-"The hoverball can display even if you do not unlock your device." = "The hoverball can display even if you do not unlock your device.";
+/* No comment provided by engineer. */
+"The hoverball can display even if you do not unlock your device." = "기기를 잠금 해제하지 않아도 호버볼이 표시될 수 있습니다.";
 
-/* TODO */
-"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "The latest version of “TrollRecorder” is %1$@ (%2$@). Current version is %3$@ (%4$@).";
+/* No comment provided by engineer. */
+"The latest version of “TrollRecorder” is %@ (%@). Current version is %@ (%@)." = "“TrollRecorder”의 최신 버전은 %1$@ (%2$@)입니다. 현재 버전은 %3$@ (%4$@)입니다.";
 
 /* No comment provided by engineer. */
 "The location metadata will be continuously updated while the recording is in progress." = "녹음이 진행되는 동안 위치 메타데이터가 지속적으로 업데이트됩니다.";
@@ -2036,7 +2039,7 @@
 "The name of the sender." = "발신자 이름입니다.";
 
 /* No comment provided by engineer. */
-"The number of samples per second, higher sample rate means better audio quality with larger file size." = "초당 샘플 수, 샘플 속도가 높을수록 파일 크기는 커지지만 오디오 품질은 향상됩니다.";
+"The number of samples per second, higher sample rate means better audio quality with larger file size." = "초당 샘플 수, 샘플 속도가 높을수록 파일 크기는 커지지만 오디오 음질은 향상됩니다.";
 
 /* No comment provided by engineer. */
 "The phone number of the contact." = "연락처 전화번호입니다.";
@@ -2063,7 +2066,7 @@
 "The time interval before the hoverball becomes idle." = "호버볼이 유휴 상태가 되기까지의 시간입니다.";
 
 /* No comment provided by engineer. */
-"The Troll Recorder daemon is not alive." = "TrollRecorder 데몬 서비스 실행에 실패했습니다.";
+"The Troll Recorder daemon is not alive." = "TrollRecorder 데몬 서비스 실행에 실패했습니다.";
 
 /* No comment provided by engineer. */
 "The unique identifier of the call." = "통화의 고유 식별자입니다.";
@@ -2119,11 +2122,11 @@
 /* No comment provided by engineer. */
 "Three-digit Milliseconds" = "세 자리 밀리초";
 
-/* TODO */
-"Time Sensitive" = "Time Sensitive";
+/* No comment provided by engineer. */
+"Time Sensitive" = "즉시 알림";
 
-/* TODO */
-"Title" = "Title";
+/* No comment provided by engineer. */
+"Title" = "제목";
 
 /* No comment provided by engineer. */
 "To" = "종료";
@@ -2131,17 +2134,17 @@
 /* No comment provided by engineer. */
 "To configure iCloud Drive, go to “Settings > Cellular > iCloud Drive”." = "iCloud Drive를 구성하려면 “설정 > 셀룰러 > iCloud Drive”로 이동하세요.";
 
-/* TODO */
-"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies.";
+/* No comment provided by engineer. */
+"To get a more accurate call history, you have to inject it into “WeChat” app via TrollFools or similar technologies." = "보다 정확한 통화 기록을 얻으려면 TrollFools 또는 유사한 기술을 통해 “WeChat“ 앱에 해당 기록을 삽입해야 합니다.";
 
 /* No comment provided by engineer. */
 "To keep alive for WebDAV access, you have to select “Always” or “While Using the App” for TrollRecorder." = "WebDAV 서버를 활성 상태로 유지하려면 TrollRecorder에 대해 “항상” 또는 “앱을 사용하는 동안”을 선택해야 합니다.";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "스마트 클라우드 아카이브를 사용하려면 TrollRecorder에 대한 백그라운드 앱 새로 고침을 활성화해야 합니다.";
+"To use Smart Cloud Archive, you have to enable Background App Refresh for TrollRecorder." = "지능형 클라우드 아카이브를 사용하려면 TrollRecorder에 대한 백그라운드 앱 새로 고침을 활성화해야 합니다.";
 
 /* No comment provided by engineer. */
-"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "스마트 클라우드 아카이브를 사용하려면 설정에서 iCloud Drive에 로그인해야 합니다.";
+"To use Smart Cloud Archive, you have to sign in to iCloud Drive in Settings." = "지능형 클라우드 아카이브를 사용하려면 설정에서 iCloud Drive에 로그인해야 합니다.";
 
 /* No comment provided by engineer. */
 "To: %@" = "종료일: %@";
@@ -2159,7 +2162,7 @@
 "Toggle Recording" = "녹음 시작/중지";
 
 /* No comment provided by engineer. */
-"top edge" = "상단 가장자리";
+"top edge" = "상단 가장자리의";
 
 /* No comment provided by engineer. */
 "Total size is %@, path is %@" = "전체 크기는 %@, 경로는 %@";
@@ -2171,10 +2174,10 @@
 "Track Location Updates" = "위치 변경 처리";
 
 /* No comment provided by engineer. */
-"trailing edge" = "오른쪽";
+"trailing edge" = "오른쪽 가장자리의";
 
 /* No comment provided by engineer. */
-"Transcript" = "녹취록";
+"Transcript" = "전사문";
 
 /* No comment provided by engineer. */
 "Transition When Idle" = "유휴 효과";
@@ -2269,14 +2272,14 @@
 /* No comment provided by engineer. */
 "Unmark" = "즐겨찾기 삭제";
 
-/* TODO */
-"unmute" = "unmute";
+/* No comment provided by engineer. */
+"unmute" = "음소거 해제";
 
-/* TODO */
-"Unmute Existing Calls" = "Unmute Existing Calls";
+/* No comment provided by engineer. */
+"Unmute Existing Calls" = "기존 통화 음소거 해제";
 
-/* TODO */
-"Unmute specified channel of all existing calls." = "Unmute specified channel of all existing calls.";
+/* No comment provided by engineer. */
+"Unmute specified channel of all existing calls." = "모든 기존 통화의 지정된 채널을 음소거 해제합니다.";
 
 /* No comment provided by engineer. */
 "Unspecified" = "미지정";
@@ -2293,8 +2296,8 @@
 /* No comment provided by engineer. */
 "Upgrade to %@" = "%@으로 업그레이드";
 
-/* TODO */
-"Uplink (Microphone)" = "Uplink (Microphone)";
+/* No comment provided by engineer. */
+"Uplink (Microphone)" = "업스트림 (마이크)";
 
 /* No comment provided by engineer. */
 "Upload" = "업로드";
@@ -2303,7 +2306,7 @@
 "Upload, download or synconize recordings between local and cloud drive." = "로컬 드라이브와 클라우드 드라이브 간에 녹음을 업로드, 다운로드 또는 동기화합니다.";
 
 /* No comment provided by engineer. */
-"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "생체 인증을 사용하여 응용 프로그램 잠금을 해제합니다. 이 기능을 활성화하면 백그라운드 재생을 사용할 수 없습니다.";
+"Use biometric authentication to unlock the application. Background playing is not available when this feature is enabled." = "생체 인증을 사용하여 응용 프로그램을 잠금 해제합니다. 이 기능을 활성화하면 백그라운드 재생을 사용할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Use Cellular Network" = "셀룰러 네트워크 사용";
@@ -2327,7 +2330,7 @@
 "Use Snapshot Transition" = "스냅샷 효과 사용";
 
 /* No comment provided by engineer. */
-"User Agreement" = "사용 약관";
+"User Agreement" = "이용약관";
 
 /* No comment provided by engineer. */
 "User Applications" = "사용자 응용 프로그램";
@@ -2357,10 +2360,10 @@
 "Verify License" = "라이센스 확인";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@" = "버전 %1$@ 빌드 %2$@";
+"Version %@ Build %@" = "버전 %1$@ 빌드 %2$@";
 
 /* No comment provided by engineer. */
-"Version %@ Build %@ - New Version %@ Build %@" = "버전 %1$@ 빌드 %2$@ - 새 버전 %3$@ 빌드 %4$@";
+"Version %@ Build %@ - New Version %@ Build %@" = "버전 %1$@ 빌드 %2$@ - 새 버전 %3$@ 빌드 %4$@";
 
 /* No comment provided by engineer. */
 "Vibrate at Begin" = "시작 시 진동";
@@ -2447,7 +2450,7 @@
 "When not connected to WLAN, use cellular network to transfer recording. Additional charges may apply." = "Wi-Fi에 연결되지 않은 경우 셀룰러 네트워크를 사용하여 녹음을 전송합니다. 추가 요금이 부과될 수 있습니다.";
 
 /* No comment provided by engineer. */
-"When unlocked, the hoverball is displayed even if you are not on the home screen." = "잠금 해제되면 홈 화면이 아니더라도 호버볼이 표시됩니다.";
+"When unlocked, the hoverball is displayed even if you are not on the home screen." = "잠금 해제 후 홈 화면에 진입하지 않더라도 잠금 화면에 호버볼이 표시됩니다.";
 
 /* No comment provided by engineer. */
 "When your %@ is low on space, local recordings for separated channels will be removed once they’ve been uploaded." = "%@의 공간이 부족하면 분리된 채널의 로컬 녹음이 업로드된 후 삭제됩니다.";
@@ -2458,11 +2461,11 @@
 /* No comment provided by engineer. */
 "Whether to force the hoverball to use the light or the dark style." = "호버볼이 밝은 스타일을 사용 할지, 어두운 스타일을 사용 할지 여부를 결정합니다.";
 
-/* TODO */
-"Which channel to mute." = "Which channel to mute.";
+/* No comment provided by engineer. */
+"Which channel to mute." = "음소거가 필요한 채널입니다.";
 
-/* TODO */
-"Which channel to unmute." = "Which channel to unmute.";
+/* No comment provided by engineer. */
+"Which channel to unmute." = "음소거를 해제할 채널입니다.";
 
 /* No comment provided by engineer. */
 "Which edges of the screen the hoverball can be attached to." = "호버볼을 화면의 어느 가장자리에 부착할 수 있나요?";
@@ -2518,17 +2521,17 @@
 /* No comment provided by engineer. */
 "“%@” is not available" = "“%@”을(를) 사용할 수 없음";
 
-/* TODO */
-"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded.";
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been disabled: VIP contacts will always be recorded and added to the favorites, while other contacts will not be recorded." = "“자동 녹음 허용“이 비활성화되었습니다. VIP 연락처는 항상 녹음되고 즐겨찾기에 추가되지만 다른 연락처는 녹음되지 않습니다.";
 
-/* TODO */
-"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites.";
+/* No comment provided by engineer. */
+"“Allow Automatic Recording” has been enabled: Contacts in the “Call Exclude List” will not be recorded, while other contacts will be recorded. Recordings of VIP contacts will also be added to the favorites." = "“자동 녹음 허용“이 활성화되었습니다. “통화 제외 목록“의 연락처는 녹음되지 않지만 VIP 연락처의 다른 연락처도 즐겨찾기에 추가됩니다.";
 
-/* TODO */
-"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore.";
+/* No comment provided by engineer. */
+"“TrollRecorder JB” and TrollStore versions are both installed. Please remove both of them, re-install “TrollRecorder JB” from Sileo, or “TrollRecorder” from TrollStore." = "“TrollRecorder JB“와 TrollStore 버전이 모두 설치되어 있습니다. 둘 다 제거하거나 Sileo에서 “TrollRecorder JB“를 다시 설치하거나 TrollStore에서 “TrollRecorder“를 다시 설치하세요.";
 
-/* TODO */
-"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore.";
+/* No comment provided by engineer. */
+"“TrollRecorder JB” is not compatible with Bootstrap (RootHide). Please remove “TrollRecorder JB”, and install “TrollRecorder” from TrollStore." = "“TrollRecorder JB”는 Bootstrap(RootHide)과 호환되지 않습니다. “TrollRecorder JB”를 제거하고 TrollStore에서 “TrollRecorder”를 설치하세요.";
 
-/* TODO */
-"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder” is not compatible with this version of iOS.";
+/* No comment provided by engineer. */
+"“TrollRecorder” is not compatible with this version of iOS." = "“TrollRecorder“는 이 iOS 버전과 호환되지 않습니다.";
