@@ -34,5 +34,37 @@
 			<string>%lld개 항목</string>
 		</dict>
 	</dict>
+	<key>Voice Channel</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@VARIABLE@</string>
+        <key>VARIABLE</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>one</key>
+            <string>음성 채널</string>
+            <key>other</key>
+            <string>음성 채널</string>
+        </dict>
+    </dict>
+	<key>%lld channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+            <string>lld</string>
+			<key>zero</key>
+			<string>%lld 채널</string>
+			<key>one</key>
+			<string>%lld 채널</string>
+			<key>other</key>
+			<string>%lld 채널</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
